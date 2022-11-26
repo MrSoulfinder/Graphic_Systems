@@ -1,0 +1,40 @@
+D:\Projects\gsodn\Lab2\gimsLab2ol\gimsLab2ol\obj\Debug\netcoreapp3.1\gimsLab2ol.csproj.AssemblyReference.cache
+D:\Projects\gsodn\Lab2\gimsLab2ol\gimsLab2ol\obj\Debug\netcoreapp3.1\gimsLab2ol.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\gsodn\Lab2\gimsLab2ol\gimsLab2ol\obj\Debug\netcoreapp3.1\gimsLab2ol.AssemblyInfoInputs.cache
+D:\Projects\gsodn\Lab2\gimsLab2ol\gimsLab2ol\obj\Debug\netcoreapp3.1\gimsLab2ol.AssemblyInfo.cs
+D:\Projects\gsodn\Lab2\gimsLab2ol\gimsLab2ol\obj\Debug\netcoreapp3.1\gimsLab2ol.csproj.CoreCompileInputs.cache
+D:\Projects\gsodn\Lab2\gimsLab2ol\gimsLab2ol\bin\Debug\netcoreapp3.1\gimsLab2ol.exe
+D:\Projects\gsodn\Lab2\gimsLab2ol\gimsLab2ol\bin\Debug\netcoreapp3.1\gimsLab2ol.deps.json
+D:\Projects\gsodn\Lab2\gimsLab2ol\gimsLab2ol\bin\Debug\netcoreapp3.1\gimsLab2ol.runtimeconfig.json
+D:\Projects\gsodn\Lab2\gimsLab2ol\gimsLab2ol\bin\Debug\netcoreapp3.1\gimsLab2ol.runtimeconfig.dev.json
+D:\Projects\gsodn\Lab2\gimsLab2ol\gimsLab2ol\bin\Debug\netcoreapp3.1\gimsLab2ol.dll
+D:\Projects\gsodn\Lab2\gimsLab2ol\gimsLab2ol\bin\Debug\netcoreapp3.1\gimsLab2ol.pdb
+D:\Projects\gsodn\Lab2\gimsLab2ol\gimsLab2ol\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Projects\gsodn\Lab2\gimsLab2ol\gimsLab2ol\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Projects\gsodn\Lab2\gimsLab2ol\gimsLab2ol\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\gsodn\Lab2\gimsLab2ol\gimsLab2ol\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\gsodn\Lab2\gimsLab2ol\gimsLab2ol\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\gsodn\Lab2\gimsLab2ol\gimsLab2ol\obj\Debug\netcoreapp3.1\gimsLab2ol.csproj.CopyComplete
+D:\Projects\gsodn\Lab2\gimsLab2ol\gimsLab2ol\obj\Debug\netcoreapp3.1\gimsLab2ol.dll
+D:\Projects\gsodn\Lab2\gimsLab2ol\gimsLab2ol\obj\Debug\netcoreapp3.1\gimsLab2ol.pdb
+D:\Projects\gsodn\Lab2\gimsLab2ol\gimsLab2ol\obj\Debug\netcoreapp3.1\gimsLab2ol.genruntimeconfig.cache
+C:\Education\University\АS-55\4 kurs\7 sem\GiMS\labs\lab_2\gimsLab2ol\bin\Debug\netcoreapp3.1\gimsLab2ol.exe
+C:\Education\University\АS-55\4 kurs\7 sem\GiMS\labs\lab_2\gimsLab2ol\bin\Debug\netcoreapp3.1\gimsLab2ol.deps.json
+C:\Education\University\АS-55\4 kurs\7 sem\GiMS\labs\lab_2\gimsLab2ol\bin\Debug\netcoreapp3.1\gimsLab2ol.runtimeconfig.json
+C:\Education\University\АS-55\4 kurs\7 sem\GiMS\labs\lab_2\gimsLab2ol\bin\Debug\netcoreapp3.1\gimsLab2ol.runtimeconfig.dev.json
+C:\Education\University\АS-55\4 kurs\7 sem\GiMS\labs\lab_2\gimsLab2ol\bin\Debug\netcoreapp3.1\gimsLab2ol.dll
+C:\Education\University\АS-55\4 kurs\7 sem\GiMS\labs\lab_2\gimsLab2ol\bin\Debug\netcoreapp3.1\gimsLab2ol.pdb
+C:\Education\University\АS-55\4 kurs\7 sem\GiMS\labs\lab_2\gimsLab2ol\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Education\University\АS-55\4 kurs\7 sem\GiMS\labs\lab_2\gimsLab2ol\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Education\University\АS-55\4 kurs\7 sem\GiMS\labs\lab_2\gimsLab2ol\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Education\University\АS-55\4 kurs\7 sem\GiMS\labs\lab_2\gimsLab2ol\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Education\University\АS-55\4 kurs\7 sem\GiMS\labs\lab_2\gimsLab2ol\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Education\University\АS-55\4 kurs\7 sem\GiMS\labs\lab_2\gimsLab2ol\obj\Debug\netcoreapp3.1\gimsLab2ol.csproj.AssemblyReference.cache
+C:\Education\University\АS-55\4 kurs\7 sem\GiMS\labs\lab_2\gimsLab2ol\obj\Debug\netcoreapp3.1\gimsLab2ol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Education\University\АS-55\4 kurs\7 sem\GiMS\labs\lab_2\gimsLab2ol\obj\Debug\netcoreapp3.1\gimsLab2ol.AssemblyInfoInputs.cache
+C:\Education\University\АS-55\4 kurs\7 sem\GiMS\labs\lab_2\gimsLab2ol\obj\Debug\netcoreapp3.1\gimsLab2ol.AssemblyInfo.cs
+C:\Education\University\АS-55\4 kurs\7 sem\GiMS\labs\lab_2\gimsLab2ol\obj\Debug\netcoreapp3.1\gimsLab2ol.csproj.CoreCompileInputs.cache
+C:\Education\University\АS-55\4 kurs\7 sem\GiMS\labs\lab_2\gimsLab2ol\obj\Debug\netcoreapp3.1\gimsLab2ol.csproj.CopyComplete
+C:\Education\University\АS-55\4 kurs\7 sem\GiMS\labs\lab_2\gimsLab2ol\obj\Debug\netcoreapp3.1\gimsLab2ol.dll
+C:\Education\University\АS-55\4 kurs\7 sem\GiMS\labs\lab_2\gimsLab2ol\obj\Debug\netcoreapp3.1\gimsLab2ol.pdb
+C:\Education\University\АS-55\4 kurs\7 sem\GiMS\labs\lab_2\gimsLab2ol\obj\Debug\netcoreapp3.1\gimsLab2ol.genruntimeconfig.cache

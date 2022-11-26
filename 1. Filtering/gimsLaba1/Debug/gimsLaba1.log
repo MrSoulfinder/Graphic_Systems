@@ -1,0 +1,7 @@
+﻿  main.cpp
+  medianFilter.cpp
+D:\Projects\gsodn\gimsLaba1oleg\gimsLaba1\medianFilter.cpp(18,27): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\gsodn\gimsLaba1oleg\gimsLaba1\medianFilter.cpp(20,28): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\gsodn\gimsLaba1oleg\gimsLaba1\medianFilter.cpp(43,24): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  gimsLaba1.vcxproj -> D:\Projects\gsodn\gimsLaba1oleg\Debug\gimsLaba1.exe
